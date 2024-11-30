@@ -1,7 +1,6 @@
-## Hi there, I'm Marcos Vinicius 👋
+## Olá, sou Marcos Vinicius 👋
 
-- 🔭 I’m currently working on building a web application using React.
-- 🌱 I’m currently learning advanced JavaScript and React concepts.
-- 👯 I’m looking to learn and participate in frontend development projects to improve user experience and explore modern design techniques.
-- 🤔 I’m looking for help to learn and explore more about frontend development and programming.
-
+- 🔭 Tenho interesse em trabalhar com desenvolvimento frontend, especialmente utilizando React.
+- 🌱 Estou aprendendo muito sobre frontend, com foco em React e JavaScript.
+- 👯 Busco aprender e participar de projetos de desenvolvimento frontend para melhorar a experiência do usuário e explorar técnicas de design modernas.
+- 🤔 Procuro ajuda para aprender e aprofundar meus conhecimentos em desenvolvimento frontend e programação em geral.
