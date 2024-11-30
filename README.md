@@ -1,4 +1,4 @@
-## Olá, sou Marcos Vinicius 👋
+## Olá! sou Marcos Vinicius 👋
 
 - 🔭 Tenho interesse em trabalhar com desenvolvimento frontend, especialmente utilizando React.
 - 🌱 Estou aprendendo muito sobre frontend, com foco em React e JavaScript.
