@@ -1,13 +1,13 @@
 # 👩🏻‍💻 Marcos Vinicius Correia Sanches
 
-**`Desenvolvedor FullStack`**
+## `Desenvolvedor FullStack`
 
-Sou desenvolvedor de software com foco em Full Stack, interessado em aprender e transformar ideias em soluções práticas.  
-Gosto de trabalhar com React e Next.js utilizando TypeScript, além de Node.js e Go, explorando performance, boas práticas e arquitetura de sistemas.
+### Sou desenvolvedor de software com foco em Full Stack, interessado em aprender e transformar ideias em soluções práticas.  
+### Gosto de trabalhar com React e Next.js utilizando TypeScript, além de Node.js e Go, explorando performance, boas práticas e arquitetura de sistemas.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="React" title="React" width="45px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
