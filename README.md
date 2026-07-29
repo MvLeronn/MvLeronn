@@ -1,57 +1,36 @@
-# 👩🏻‍💻 Marcos Vinicius Correia Sanches
+# Marcos Vinicius Correia Sanches
 
-## `Desenvolvedor FullStack`
+**Desenvolvedor Full Stack | Node.js | TypeScript | React | Next.js | React Native**
 
-### Sou desenvolvedor de software Full Stack, com experiência prática em ambiente de produção, atuando no desenvolvimento e evolução de aplicações web e plataformas de dados.  
-### Trabalho principalmente com React e Next.js utilizando TypeScript, além de Node.js e Go, com foco em performance, Clean Code, boas práticas e arquitetura de sistemas.
+Sou engenheiro de software formado pelo Inatel, com experiência em desenvolvimento Full Stack de aplicações web e mobile e APIs REST.
 
----
+## Tecnologias
 
-## 🤖 Linguagens e Tecnologias
+| Área | Principais tecnologias |
+| --- | --- |
+| **Backend** | Node.js, TypeScript, Go, C# e Prisma |
+| **Frontend e mobile** | React, Next.js, React Native e Tailwind CSS |
+| **Cloud e dados** | PostgreSQL, MySQL, GCP, AWS Lambda, AWS SQS e Cloudflare |
+| **Qualidade e entrega** | Docker, GitHub Actions, Jest, Vitest, Cypress e Postman |
 
-<br/>
+## Projeto em destaque
 
-<img align="left" alt="TypeScript" title="TypeScript" width="45px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+### [TrackAssets](https://github.com/MvLeronn/trackassets)
 
-<img align="left" alt="React" title="React" width="45px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+**Stack:** Node.js, TypeScript, Express, Prisma, PostgreSQL, Next.js, React Native, Expo, Docker, GCP e Cloudflare.
 
-<img align="left" alt="Next.js" title="Next.js" width="45px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+[Repositório público](https://github.com/MvLeronn/trackassets) · [Site oficial](https://www.mvcssoftware.com.br/) · [Aplicativo Android](https://play.google.com/store/apps/details?id=com.mvcssoftware.trackassets.driver)
 
-<img align="left" alt="Node.js" title="Node.js" width="45px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+O TrackAssets é uma plataforma para gestão e rastreabilidade de ativos retornáveis, conectando a operação administrativa ao trabalho em campo. Centraliza entregas, recolhimentos, saldos por cliente e o histórico de unidades rastreáveis.
 
-<img align="left" alt="Go" title="Go" width="45px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
+- **API:** Node.js, TypeScript, Express, Prisma e PostgreSQL, seguindo arquitetura em camadas para separar controladores, serviços, regras de negócio e persistência.
+- **Plataforma web:** Next.js e Tailwind CSS para gestão de cadastros, acompanhamento operacional e conferência de movimentações.
+- **Aplicativo mobile:** React Native e Expo para registro de movimentações e consulta de histórico em campo.
+- **Arquitetura:** operação multiempresa com isolamento de dados e perfis de administração, gestão, supervisão e motoristas.
 
-<img align="left" alt="JavaScript" title="JavaScript" width="45px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+## Contato
 
-<img align="left" alt="MySQL" title="MySQL" width="45px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="45px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-
-<img align="left" alt="MongoDB" title="MongoDB" width="45px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-
-<img align="left" alt="Docker" title="Docker" width="45px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-
-<img align="left" alt="AWS" title="AWS" width="45px" style="padding-right:10px;"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-
-<img align="left" alt="Git" title="Git" width="45px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
-<img align="left" alt="Python" title="Python" width="45px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-
-<img align="left" alt="Java" title="Java" width="45px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-
-<img align="left" alt="C++" title="C++" width="45px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+- [GitHub](https://github.com/MvLeronn)
+- [LinkedIn](https://www.linkedin.com/in/marcosviniciuscs/)
+- [Portfólio](https://mvleronn.github.io/)
+- [E-mail](mailto:marcos23_correia@hotmail.com)
